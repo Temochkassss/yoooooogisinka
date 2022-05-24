@@ -35,3 +35,4 @@ window.addEventListener('DOMContentLoaded', function() {
 
     });
 }); // заработает только тогда когда весь html загрузится
+
